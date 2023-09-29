@@ -1,3 +1,8 @@
+"""
+This application runs in the console.
+The result of its operation is information whether the user has drawn winning numbers in LOTTO.
+"""
+
 import random
 
 rnd = sorted(random.sample(range(1, 50), 6))

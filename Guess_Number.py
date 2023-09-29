@@ -1,3 +1,9 @@
+"""
+This application runs in the console.
+The result of its operation is the answer to whether the user guessed the number drawn by the computer.
+"""
+
+
 import random
 
 rnd = random.randint(1, 100)

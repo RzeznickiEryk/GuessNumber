@@ -1,5 +1,9 @@
 from flask import Flask, request
-
+"""
+This application works on the internet site. 
+It works in such a way that the computer guesses the number that the user selects. 
+The user uses buttons to guide the computer to the correct result.
+"""
 app = Flask(__name__)
 
 

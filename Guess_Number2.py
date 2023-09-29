@@ -1,3 +1,9 @@
+"""
+This application runs in the console. It works in such a way that the computer guesses the number that the user selects.
+ The user uses the console to guide the computer to the correct result
+ """
+
+
 print("Pomyśl liczbę od 0 do 1000 a ja ją zgadnę w max. 10 próbach. Używaj odpowiedzi 'You win', 'Too big', 'Too small'")
 print("Naciśnij enter")
 input()

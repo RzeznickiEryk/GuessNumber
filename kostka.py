@@ -1,4 +1,7 @@
 import random
+'''
+This function will calculate the result of the dice roll based on the dice roll pattern
+'''
 
 
 def cubes(pattern):
