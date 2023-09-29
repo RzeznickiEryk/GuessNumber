@@ -1,4 +1,4 @@
-print("Pomyśl liczbę od 0 do 1000 a ja ją zgadnę w max. 10 próbach.")
+print("Pomyśl liczbę od 0 do 1000 a ja ją zgadnę w max. 10 próbach. Używaj odpowiedzi 'You win', 'Too big', 'Too small'")
 print("Naciśnij enter")
 input()
 
